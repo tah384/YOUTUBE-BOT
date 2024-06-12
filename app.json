@@ -18,15 +18,15 @@
     },
     "BOT_TOKEN": {
       "description": "YOUR BOT TOKEN FROM @BotFather",
-      "value": ""
+      "value": "6965255627:AAGHAspJSX01m1vaKfp6faZdWRJg-hDQtKg"
     },
     "API_ID": {
       "description": "YOUR API ID, USE @TeleORG_Bot  ",
-      "value": ""
+      "value": "q29426486"
     },
     "API_HASH": {
       "description": "YOUR API HASH, USE @TeleORG_Bot ",
-      "value": ""
+      "value": "d71ad4ec048ab41677a1a439b21ff0c9"
     }
   },
   "addons": [
